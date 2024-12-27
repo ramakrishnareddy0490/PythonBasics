@@ -8,5 +8,5 @@ print("""\
 ...      -H hostname               Hostname to connect to
 ... """)
 
-# using escape(\) sequence
+# using escape sequence (\)
 print('I\'m a python developer')
